@@ -42,7 +42,7 @@ type
     dxBarManager1: TdxBarManager;
     dxBarManager1Bar1: TdxBar;
     dxRibbon1: TdxRibbon;
-    dxRibbon1Tab1: TdxRibbonTab;
+    RbnTabBienv: TdxRibbonTab;
     dxRibbonBackstageView1: TdxRibbonBackstageView;
     dxRibbonBackstageViewTabSheet1: TdxRibbonBackstageViewTabSheet;
     dxRibbonStatusBar1: TdxRibbonStatusBar;
@@ -90,6 +90,17 @@ type
     dxBarSetting: TdxBarGroup;
     ActionList1: TActionList;
     ActSeting: TAction;
+    RbnTabEqipmnt: TdxRibbonTab;
+    dxBarManager1Bar4: TdxBar;
+    dxBarLargeButton3: TdxBarLargeButton;
+    dxBarLargeButton4: TdxBarLargeButton;
+    dxBarManager1Bar5: TdxBar;
+    dxBarLargeButton5: TdxBarLargeButton;
+    dxBarLargeButton6: TdxBarLargeButton;
+    dxBarManager1Bar6: TdxBar;
+    dxBarManager1Bar7: TdxBar;
+    dxBarLargeButton7: TdxBarLargeButton;
+    dxBarLargeButton8: TdxBarLargeButton;
     procedure FormCreate(Sender: TObject);
     procedure ActSetingExecute(Sender: TObject);
   private
